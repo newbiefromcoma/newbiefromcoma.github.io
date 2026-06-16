@@ -9,14 +9,14 @@ draft: false
 ---
 
 # Hello, I’m **Jeeva M**
-Cybersecurity Professional | Red Team Specialist | Defender of Systems
+Cybersecurity Professional 
 
 
 ## A Bit About Me
 
-I’m a passionate **cybersecurity professional** with deep experience in **penetration testing, red teaming, and enterprise defense strategy**. I build secure systems by thinking like an attacker — but acting as a protector.
+I’m a passionate **cybersecurity professional** with deep experience in **penetration testing, red teaming, and enterprise defense strategy**. I build secure systems by thinking like an attacker - but acting as a protector.
 
-My journey began with curiosity: *“What makes systems fail?”* — and evolved into a mission: *“How do we fix them before attackers do?”*
+My journey began with curiosity: *“What if?” and whow it..?* - and evolved into a mission: *“How do we fix them before attackers do?”*
 
 ---
 
@@ -24,18 +24,16 @@ My journey began with curiosity: *“What makes systems fail?”* — and evolve
 
 I work at the intersection of **attack simulation** and **defense hardening**. My expertise includes:
 
-- **Red Team Operations**
-  - Chaining vulnerabilities into impactful attack paths
-  - Simulating real-world adversaries
+- Chaining vulnerabilities into impactful attack paths
+- Simulating real-world adversaries
+
 - **Application & Network Penetration Testing**
   - Manual + automated discovery
   - Exploitation and privilege escalation
 - **Security Research**
   - Protocol analysis
   - Finding edge-case vulnerabilities
-- **Defensive Guidance**
-  - Hardening strategies
-  - Detection and response improvements
+
 
 ---
 

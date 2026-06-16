@@ -14,32 +14,6 @@ This page is a living reference for everything Quartz v5 can render. Use it to t
 
 ---
 
-## Theme Previews
-
-How this theme renders in practice:
-
-**Blog index** — post list with terracotta tags, blue titles, dashed borders:
-
-![Blog index in phosphor terminal theme](/static/screenshots/theme-blogs.png)
-
-**Article layout** — three-column grid, amber headings (h1/h2), muted h3–h6, right sidebar ToC:
-
-![Article layout with heading hierarchy](/static/screenshots/theme-layout.png)
-
-**Code blocks** — neutral dark background, Shiki syntax highlighting (github-dark), dashed border:
-
-![Code block rendering](/static/screenshots/theme-code.png)
-
-**Callouts** — each type gets its own accent color (note=blue, tip=teal, warning=amber, danger=red, bug=orange):
-
-![Callout types rendered in the phosphor theme](/static/screenshots/theme-callouts.png)
-
-**Tables** — dashed horizontal rules, inline code in phosphor green:
-
-![Table with dashed borders](/static/screenshots/theme-tables.png)
-
----
-
 ## Inline Formatting
 
 Regular body text is IBM Plex Mono at `line-height: 1.7`. Readability first.
@@ -56,7 +30,7 @@ Automatic bare-URL links: https://github.com/newbiefromcoma
 
 ---
 
-## Headings
+# Headings
 
 All six heading levels below. h1–h2 use Departure Mono; h3–h6 use JetBrains Mono.
 

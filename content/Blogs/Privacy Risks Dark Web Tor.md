@@ -8,7 +8,7 @@ tags:
   - Privacy
   - Security Analysis
   - Deanonymization
-author: "[Your Name]"
+author: "Jeeva"
 permalink: /blog/privacy-risks-dark-web-tor/
 draft: false
 featuredImage: /assets/blog/privacy-risks-dark-web-tor.jpg
